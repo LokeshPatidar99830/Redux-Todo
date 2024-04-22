@@ -1,0 +1,33 @@
+.main{
+    width: 300px;
+    text-align: center;
+    margin-left: 80vh;
+    margin-top: 10vh;
+    border:5px solid black;
+    background: linear-gradient(red,orange,yellow,white);
+}
+button{
+    background-color:white;
+    color: black;
+    border-radius:4px ;
+    border: none;
+    height: 20px;
+    width: 80px;
+    margin: 10px;
+}
+body{
+    text-align: center;
+}
+input{
+    height: 25px;
+    width: 200px;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+}
+li{
+    border-bottom:1px solid black ;
+    color: black;
+    font-size: larger;
+}
